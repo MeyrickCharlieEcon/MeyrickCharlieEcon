@@ -1,6 +1,125 @@
-term,value
-Uncovering the lead,20
-Numbers/data/units,20
-Effective signposting,20
-Human stories,20
-Orwell's rules,20
+date,term,value
+2022-06-01,OECD + economic + outlook,30
+2022-06-02,OECD + economic + outlook,29
+2022-06-03,OECD + economic + outlook,26
+2022-06-04,OECD + economic + outlook,15
+2022-06-05,OECD + economic + outlook,14
+2022-06-06,OECD + economic + outlook,28
+2022-06-07,OECD + economic + outlook,31
+2022-06-08,OECD + economic + outlook,32
+2022-06-09,OECD + economic + outlook,30
+2022-06-10,OECD + economic + outlook,28
+2022-06-11,OECD + economic + outlook,15
+2022-06-12,OECD + economic + outlook,14
+2022-06-13,OECD + economic + outlook,31
+2022-06-14,OECD + economic + outlook,31
+2022-06-15,OECD + economic + outlook,30
+2022-06-16,OECD + economic + outlook,26
+2022-06-17,OECD + economic + outlook,27
+2022-06-18,OECD + economic + outlook,15
+2022-06-19,OECD + economic + outlook,14
+2022-06-20,OECD + economic + outlook,27
+2022-06-21,OECD + economic + outlook,31
+2022-06-22,OECD + economic + outlook,31
+2022-06-23,OECD + economic + outlook,29
+2022-06-24,OECD + economic + outlook,27
+2022-06-25,OECD + economic + outlook,14
+2022-06-26,OECD + economic + outlook,14
+2022-06-27,OECD + economic + outlook,28
+2022-06-28,OECD + economic + outlook,30
+2022-06-29,OECD + economic + outlook,29
+2022-06-30,OECD + economic + outlook,31
+2022-07-01,OECD + economic + outlook,28
+2022-07-02,OECD + economic + outlook,15
+2022-07-03,OECD + economic + outlook,14
+2022-07-04,OECD + economic + outlook,26
+2022-07-05,OECD + economic + outlook,30
+2022-07-06,OECD + economic + outlook,31
+2022-07-07,OECD + economic + outlook,29
+2022-07-08,OECD + economic + outlook,26
+2022-07-09,OECD + economic + outlook,14
+2022-07-10,OECD + economic + outlook,13
+2022-07-11,OECD + economic + outlook,28
+2022-07-12,OECD + economic + outlook,27
+2022-07-13,OECD + economic + outlook,28
+2022-07-14,OECD + economic + outlook,27
+2022-07-15,OECD + economic + outlook,27
+2022-07-16,OECD + economic + outlook,14
+2022-07-17,OECD + economic + outlook,13
+2022-07-18,OECD + economic + outlook,29
+2022-07-19,OECD + economic + outlook,29
+2022-07-20,OECD + economic + outlook,27
+2022-07-21,OECD + economic + outlook,28
+2022-07-22,OECD + economic + outlook,26
+2022-07-23,OECD + economic + outlook,14
+2022-07-24,OECD + economic + outlook,13
+2022-07-25,OECD + economic + outlook,28
+2022-07-26,OECD + economic + outlook,29
+2022-07-27,OECD + economic + outlook,26
+2022-07-28,OECD + economic + outlook,28
+2022-07-29,OECD + economic + outlook,26
+2022-07-30,OECD + economic + outlook,14
+2022-07-31,OECD + economic + outlook,13
+2022-08-01,OECD + economic + outlook,28
+2022-06-01,IMF + world + economic + outlook,91
+2022-06-02,IMF + world + economic + outlook,94
+2022-06-03,IMF + world + economic + outlook,86
+2022-06-04,IMF + world + economic + outlook,80
+2022-06-05,IMF + world + economic + outlook,96
+2022-06-06,IMF + world + economic + outlook,97
+2022-06-07,IMF + world + economic + outlook,97
+2022-06-08,IMF + world + economic + outlook,97
+2022-06-09,IMF + world + economic + outlook,99
+2022-06-10,IMF + world + economic + outlook,97
+2022-06-11,IMF + world + economic + outlook,95
+2022-06-12,IMF + world + economic + outlook,96
+2022-06-13,IMF + world + economic + outlook,100
+2022-06-14,IMF + world + economic + outlook,96
+2022-06-15,IMF + world + economic + outlook,95
+2022-06-16,IMF + world + economic + outlook,93
+2022-06-17,IMF + world + economic + outlook,96
+2022-06-18,IMF + world + economic + outlook,88
+2022-06-19,IMF + world + economic + outlook,86
+2022-06-20,IMF + world + economic + outlook,95
+2022-06-21,IMF + world + economic + outlook,90
+2022-06-22,IMF + world + economic + outlook,90
+2022-06-23,IMF + world + economic + outlook,90
+2022-06-24,IMF + world + economic + outlook,82
+2022-06-25,IMF + world + economic + outlook,82
+2022-06-26,IMF + world + economic + outlook,81
+2022-06-27,IMF + world + economic + outlook,85
+2022-06-28,IMF + world + economic + outlook,85
+2022-06-29,IMF + world + economic + outlook,83
+2022-06-30,IMF + world + economic + outlook,85
+2022-07-01,IMF + world + economic + outlook,84
+2022-07-02,IMF + world + economic + outlook,75
+2022-07-03,IMF + world + economic + outlook,75
+2022-07-04,IMF + world + economic + outlook,83
+2022-07-05,IMF + world + economic + outlook,83
+2022-07-06,IMF + world + economic + outlook,87
+2022-07-07,IMF + world + economic + outlook,84
+2022-07-08,IMF + world + economic + outlook,87
+2022-07-09,IMF + world + economic + outlook,84
+2022-07-10,IMF + world + economic + outlook,76
+2022-07-11,IMF + world + economic + outlook,87
+2022-07-12,IMF + world + economic + outlook,83
+2022-07-13,IMF + world + economic + outlook,84
+2022-07-14,IMF + world + economic + outlook,80
+2022-07-15,IMF + world + economic + outlook,83
+2022-07-16,IMF + world + economic + outlook,79
+2022-07-17,IMF + world + economic + outlook,84
+2022-07-18,IMF + world + economic + outlook,91
+2022-07-19,IMF + world + economic + outlook,83
+2022-07-20,IMF + world + economic + outlook,87
+2022-07-21,IMF + world + economic + outlook,86
+2022-07-22,IMF + world + economic + outlook,84
+2022-07-23,IMF + world + economic + outlook,79
+2022-07-24,IMF + world + economic + outlook,83
+2022-07-25,IMF + world + economic + outlook,84
+2022-07-26,IMF + world + economic + outlook,80
+2022-07-27,IMF + world + economic + outlook,80
+2022-07-28,IMF + world + economic + outlook,83
+2022-07-29,IMF + world + economic + outlook,81
+2022-07-30,IMF + world + economic + outlook,73
+2022-07-31,IMF + world + economic + outlook,72
+2022-08-01,IMF + world + economic + outlook,83
